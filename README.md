@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Asyraf
-- 🌱 I’m currently in Dev team of FabI
+- 👋 Hi, I’m Asyraf Arifin from Melaka
+- 🌱 Currently a software engineer in FAB Integration
 - 📫 How to reach me: t.me/asrafkaizen
 
 <!---
